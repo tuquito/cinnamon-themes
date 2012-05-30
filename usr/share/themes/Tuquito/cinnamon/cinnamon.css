@@ -309,11 +309,11 @@ StTooltip StLabel {
 }
 
 .toggle-switch-us, .toggle-switch-intl {
-    background-image: url("toggle-off.png");
+    background-image: url("toggle-off.svg");
 }
 
 .toggle-switch-us:checked, .toggle-switch-intl:checked {
-    background-image: url("toggle-on.png");
+    background-image: url("toggle-on.svg");
 }
 
 .nm-menu-item-icons {
