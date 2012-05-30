@@ -1,0 +1,12 @@
+Source: cinnamon-themes
+Section: universe/gnome
+Priority: optional
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: cinnamon-themes
+Architecture: all
+Description: Cinnamon themes
+ A collection of the best themes available for Cinnamon.
+

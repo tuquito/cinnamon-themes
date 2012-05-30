@@ -1,0 +1,9 @@
+{ 
+   "cinnamon-theme": {
+   "name": "Baldr", 
+   "author": "bimsebasse", 
+   "version": "3.1",
+   "type":   "custom",
+   "thumbnail": "thumbnail.png"
+    }
+}
